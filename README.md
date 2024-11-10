@@ -17,6 +17,11 @@ B0      B1
 
 Col0    Col1    Col2
 A6      A5      A4
+
+OLED
+
+SDL     SCL     VCC     GND
+B7      B6      3V      G
 ```
 
 
